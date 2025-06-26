@@ -8,3 +8,15 @@ __pycache__
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+/lambda/annotated_types
+/lambda/bson
+/lambda/dateutil
+/lambda/dns
+/lambda/pymongo
+/lambda/pymongo-4.6.1.dist-info
+/lambda/six.py
+/lambda/typing_extensions.py
+/lambda/dnspython-2.7.0.dist-info
+/lambda/gridfs
+
+.env

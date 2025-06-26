@@ -1,2 +1,5 @@
 aws-cdk-lib==2.196.0
 constructs>=10.0.0,<11.0.0
+aws-cdk.aws-lambda
+python-dotenv==1.0.0
+pymongo==4.6.1 
